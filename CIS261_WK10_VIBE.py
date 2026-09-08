@@ -1,3 +1,7 @@
+#David Vorreyer
+#CIS261
+#WK10 VIBE Coding
+
 """Student Grade Calculator.
 
 This program manages student records, calculates averages and letter grades,
